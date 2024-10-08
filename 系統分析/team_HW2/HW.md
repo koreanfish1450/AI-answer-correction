@@ -9,7 +9,7 @@ gantt
     任務分配           :a2, after a1, 1d
     取得API           :a3, after a1, 3d
 
-    程式開發           :a4, after a2, 90d
+    程式開發           :a4, after a2, 60d
     安裝軟體           :a5, after a3, 2d
 
     程式測試           :a6, after a5, 15d
